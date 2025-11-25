@@ -1112,13 +1112,13 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ### **👨‍💻 Author**
 
-**Quattro Xpert**
+**Hossam Medhat**
 
 - 🎓 **Role**: Lead Data Scientist & ML Engineer
 - 💼 **Expertise**: Machine Learning, MLOps, Healthcare AI
-- 📧 **Contact**: quattro.xpert@example.com
-- 💼 **LinkedIn**: [Your Profile]
-- 🐙 **GitHub**: [Your GitHub]
+- 📧 **Contact**: hossammedhat81@gmail.com
+- 💼 **LinkedIn**: [https://www.linkedin.com/in/hossammed7at/]
+- 🐙 **GitHub**: [https://github.com/hossammedhat81]
 
 ### **🌟 Acknowledgments**
 
@@ -1150,7 +1150,7 @@ If this project helped you, please consider:
 
 <div align="center">
 
-**Made with ❤️ and ☕ by Quattro Xpert**
+**Made with ❤️ and ☕ by Hossam Medhat**
 
 *Advancing Healthcare Through Artificial Intelligence*
 
@@ -1159,3 +1159,4 @@ If this project helped you, please consider:
 [⬆ Back to Top](#-pima-indians-diabetes-prediction-system)
 
 </div>
+
